@@ -1,0 +1,22 @@
+{
+  "name": "node-api-wrapper-for-opensky-network",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maras333/Node.js-API-for-opensky-network.git"
+  },
+  "author": "Marek Czyż",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maras333/Node.js-API-for-opensky-network/issues"
+  },
+  "homepage": "https://github.com/maras333/Node.js-API-for-opensky-network#readme",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
